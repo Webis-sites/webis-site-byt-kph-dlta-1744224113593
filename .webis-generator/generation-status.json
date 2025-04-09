@@ -1,8 +1,24 @@
 {
-  "projectName": "בית-קפה-דלתא-4113",
-  "businessName": "בית קפה דלתא",
-  "created": "2025-04-09T18:41:53.681Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-09T18:43:31.074Z",
+  "status": {
+    "totalComponents": 2,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL Hebrew hero section with café branding, headline, and booking CTA"
+    },
+    {
+      "name": "NavBar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL Hebrew navigation bar with logo and menu links"
+    }
+  ],
+  "repoName": "webis-site-byt-kph-dlta-1744224113593"
 }
